@@ -1,6 +1,6 @@
 # Docker Projects and Examples
 
-<img width="1316" height="1126" alt="image" src="https://github.com/user-attachments/assets/b9a1aff9-41e3-499b-9949-e25c8dc2da54" />
+<img width="131" height="112" alt="image" src="https://github.com/user-attachments/assets/b9a1aff9-41e3-499b-9949-e25c8dc2da54" />
 
 A collection of Docker configurations, examples, and projects for containerized applications.
 
